@@ -9,7 +9,8 @@ Global Statistics and Data Science Young Scholars Online Forum, Southern Univers
 
 - *Topic*: Signed Network Embedding with Application to Simultaneous Detection of Communities and Anomalies
 Winter Young Mathematician Forum, Shanghai Jiao Tong University, Dec 2022  
-School of Management Science, Fudan University, July 2022  
+School of Management Science, Fudan University, July 2022
+International Conference on Econometrics and Statistics, June 2022
 Institute of Statistics and Big Data, Renmin University of China, June 2022  
 Academy of Mathematics and Systems Science, Chinese Academy of Sciences, May 2022  
 
