@@ -4,8 +4,8 @@ title: "Talks"
 ---
 
 - *Topic*: Gaussian Chain Graph: Identifiability, Estimation and Asymptotics  
-1, Global Statistics and Data Science Young Scholars Online Forum, Southern University of Science and Technology, Jan 2023  
-2, Center of Statistical Research, Southwestern University of Finance and Economics, May 2023  
+-- Global Statistics and Data Science Young Scholars Online Forum, Southern University of Science and Technology, Jan 2023  
+-- Center of Statistical Research, Southwestern University of Finance and Economics, May 2023  
 
 
 - *Topic*: Signed Network Embedding with Application to Simultaneous Detection of Communities and Anomalies  
