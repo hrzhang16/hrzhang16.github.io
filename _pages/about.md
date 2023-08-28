@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Haoran Zhang
 Assistant Professor  
 Department of Statistics and Data Science, Southern University of Science and Technology  
 Email: zhanghr[at]sustech[dot]edu[dot]cn  
