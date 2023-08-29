@@ -11,7 +11,7 @@ author_profile: true
 
 - [Efficient estimation and inference for the signed β-model in directed signed networks](https://arxiv.org/pdf/2208.00137.pdf)    
 **Haoran Zhang** & Junhui Wang.
-*Statistica Sinica* (accepted, 2023+). 
+*Statistica Sinica*, 2023+. 
 
 - [Unfolding-Model-Based Visualization: Theory, Method and Applications](https://jmlr.org/papers/volume22/18-846/18-846.pdf)[[Codes](https://github.com/hrzhang16/mmdu)]  
 Yunxiao Chen, Zhiliang Ying & **Haoran Zhang**     
