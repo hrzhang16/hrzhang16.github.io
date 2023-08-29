@@ -9,7 +9,11 @@ author_profile: true
 ## Published Papers
 - - -
 
-- [Unfolding-Model-Based Visualization: Theory, Method and Applications](https://jmlr.org/papers/volume22/18-846/18-846.pdf)[[Codes](https://github.com/hrzhang16/mmdu)]    
+- [Efficient estimation and inference for the signed β-model in directed signed networks](https://arxiv.org/pdf/2208.00137.pdf)    
+**Haoran Zhang** & Junhui Wang.
+*Statistica Sinica* (accepted, 2023+). 
+
+- [Unfolding-Model-Based Visualization: Theory, Method and Applications](https://jmlr.org/papers/volume22/18-846/18-846.pdf)[[Codes](https://github.com/hrzhang16/mmdu)]  
 Yunxiao Chen, Zhiliang Ying & **Haoran Zhang**     
 *Journal of Machine Learning Research*, 2021, 22: 1-51.
 
@@ -31,9 +35,6 @@ Yunxiao Chen, Moustaki Irini & **Haoran Zhang**
 Ruixuan Zhao, **Haoran Zhang** & Junhui Wang.
 
 - [Efficient Estimation for Longitudinal Networks via Adaptive Merging](https://arxiv.org/pdf/2211.07866.pdf)    
-**Haoran Zhang** & Junhui Wang. 
-  
-- [Efficient estimation and inference for the signed β-model in directed signed networks](https://arxiv.org/pdf/2208.00137.pdf)    
 **Haoran Zhang** & Junhui Wang. 
 
 - [Signed Network Embedding with Application to Simultaneous Detection of Communities and Anomalies](https://arxiv.org/pdf/2207.09324.pdf)   
