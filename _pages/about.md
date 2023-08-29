@@ -17,7 +17,7 @@ Email: zhanghr[at]sustech[dot]edu[dot]cn
 - Sep. 2016 - Jul. 2021,  Ph.D. in *Statistics*  
 [Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), Fudan University  
 Advisor: Prof. [Zhiliang Ying](http://www.stat.columbia.edu/~zying/)
-- Aug. 2017 - Aug. 2019,  Joint Ph.D in *Statistics*  
+- Aug. 2017 - Aug. 2019,  Joint Ph.D. in *Statistics*  
 [Department of Statistics](http://stat.columbia.edu/), Columbia University  
 - Sep. 2012 – Jul. 2016,  B.S. in *Mathematics*   
 [School of Mathematical Sciences](https://math.fudan.edu.cn/), Fudan University
