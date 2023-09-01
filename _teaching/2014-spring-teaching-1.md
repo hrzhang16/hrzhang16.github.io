@@ -1,5 +1,5 @@
 ---
-title: "Probability and Mathematical Statistics"
+title: "Mathematical Statistics"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-fall-teaching-1
