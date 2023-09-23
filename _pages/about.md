@@ -12,7 +12,7 @@ Assistant Professor
 Department of Statistics and Data Science, Southern University of Science and Technology  
 Email: zhanghr[at]sustech[dot]edu[dot]cn  
 
-There are some openings for graduate students (MSc, Ph.D.), research assistants, and postdocs. Please feel free to contact me with your CV if you are interested!
+There are some openings for potential Ph.D. students, research assistants, and postdocs. Please feel free to contact me with your CV if you are interested!
 
 ## Educations
 - Sep. 2016 - Jul. 2021,  Ph.D. in *Statistics*  
