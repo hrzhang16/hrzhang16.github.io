@@ -31,7 +31,7 @@ Yunxiao Chen, Moustaki Irini & **Haoran Zhang**
 ## Submitted Papers
 - - -
 
-- [Identifiability and Consistent Estimation of the Gaussian Chain Graph Model](https://arxiv.org/pdf/2303.01031.pdf)    
+- [Identifiability and Consistent Estimation for Gaussian Chain Graph Models](https://arxiv.org/pdf/2303.01031.pdf)    
 Ruixuan Zhao, **Haoran Zhang** & Junhui Wang.
 
 - [Efficient Estimation for Longitudinal Networks via Adaptive Merging](https://arxiv.org/pdf/2211.07866.pdf)    
