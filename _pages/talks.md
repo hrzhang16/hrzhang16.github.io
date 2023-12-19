@@ -3,7 +3,8 @@ permalink: /talks/
 title: "Talks"
 ---
 
-- *Topic*: Gaussian Chain Graph: Identifiability, Estimation and Asymptotics  
+- *Topic*: Identifiability and Consistent Estimation for Gaussian Chain Graph Models  
+-- Shenzhen International Conference on Frontiers of Statistics and Data Science, Southern University of Science and Technology, Dec 2023 
 -- Center of Statistical Research, Southwestern University of Finance and Economics, May 2023  
 -- Global Statistics and Data Science Young Scholars Online Forum, Southern University of Science and Technology, Jan 2023  
 
