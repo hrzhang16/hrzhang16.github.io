@@ -39,7 +39,7 @@ Yunxiao Chen, Moustaki Irini & **Haoran Zhang**
 ## Submitted Papers
 - - -
 
-- [A Multilayer Probit Network Model for Community Detection with Dependent Edges and Layers]    
+- A Multilayer Probit Network Model for Community Detection with Dependent Edges and Layers     
 Dapeng Shi, **Haoran Zhang** & Junhui Wang.
 
 - [Rank Aggregation under Weak Stochastic Transitivity via a Maximum Score Estimator](https://arxiv.org/abs/2510.06789)   
